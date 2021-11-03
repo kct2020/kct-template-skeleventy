@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>cardiovascular | GoutPal&#039;s Gout Library</title>
+	<atom:link href="/tag/vocubulary-entry-cardiovascular/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Gout and Uric Acid Knowledge</description>
+	<lastBuildDate>Thu, 06 Aug 2020 13:12:19 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>/wp-content/uploads/2020/05/cropped-GoutPal-Library-Logo-media-1-32x32.png</url>
+	<title>cardiovascular | GoutPal&#039;s Gout Library</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Normal Range of Uric Acid in Blood</title>
+		<link>/normal-range-of-uric-acid-in-blood/</link>
+		
+		<dc:creator><![CDATA[Keith Taylor]]></dc:creator>
+		<pubDate>Thu, 16 Jul 2020 07:10:18 +0000</pubDate>
+				<category><![CDATA[Gout and Uric Acid]]></category>
+		<category><![CDATA[cardiovascular]]></category>
+		<category><![CDATA[hyperuricemia]]></category>
+		<category><![CDATA[MSU (MonoSodium Urate)]]></category>
+		<category><![CDATA[serum]]></category>
+		<guid isPermaLink="false">/?p=195</guid>
+
+					<description><![CDATA[References ranges are vital in gout management. As they control diagnosis and treatment. Is yours calculated badly? Get your Normal Range of Uric Acid in Blood.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Different Food Purine Types and Uric Acid</title>
+		<link>/different-food-purine-types-and-uric-acid/</link>
+		
+		<dc:creator><![CDATA[Keith Taylor]]></dc:creator>
+		<pubDate>Fri, 05 Jun 2020 05:27:20 +0000</pubDate>
+				<category><![CDATA[Gout and Uric Acid]]></category>
+		<category><![CDATA[cardiovascular]]></category>
+		<category><![CDATA[hyperuricemia]]></category>
+		<guid isPermaLink="false">/?p=130</guid>
+
+					<description><![CDATA[Gout sufferers fear purines. But not all purines are equal. Don't avoid all tasty food just because of total numbers. See best purine types for uric acid.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Gluten and Uric Acid</title>
+		<link>/gluten-and-uric-acid/</link>
+		
+		<dc:creator><![CDATA[Keith Taylor]]></dc:creator>
+		<pubDate>Mon, 18 May 2020 08:46:08 +0000</pubDate>
+				<category><![CDATA[Gout and Uric Acid]]></category>
+		<category><![CDATA[cardiovascular]]></category>
+		<category><![CDATA[serum]]></category>
+		<guid isPermaLink="false">/?p=65</guid>
+
+					<description><![CDATA[Wheat gluten can lower uric acid in the blood. Are you concerned about eating wheat, rye, and barley foods? Now you know gluten is good for gout.]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

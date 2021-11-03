@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>tophus (plural = tophi) | GoutPal&#039;s Gout Library</title>
+	<atom:link href="/tag/tophus-plural-tophi/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Gout and Uric Acid Knowledge</description>
+	<lastBuildDate>Thu, 12 Nov 2020 13:47:21 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>/wp-content/uploads/2020/05/cropped-GoutPal-Library-Logo-media-1-32x32.png</url>
+	<title>tophus (plural = tophi) | GoutPal&#039;s Gout Library</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Uricase Medication with Methotrexate</title>
+		<link>/uricase-medication-with-methotrexate/</link>
+		
+		<dc:creator><![CDATA[Keith Taylor]]></dc:creator>
+		<pubDate>Thu, 12 Nov 2020 13:47:19 +0000</pubDate>
+				<category><![CDATA[Gout and Uric Acid]]></category>
+		<category><![CDATA[sUA]]></category>
+		<category><![CDATA[tophus (plural = tophi)]]></category>
+		<guid isPermaLink="false">/?p=241</guid>
+
+					<description><![CDATA[Uricase medication is a fast-acting uric acid treatment. But most gout patients develop immunity to it. See how methotrexate makes pegloticase more effective.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Target Uric Acid Below 6 mg/dL</title>
+		<link>/target-uric-acid-below-6-mg-dl/</link>
+		
+		<dc:creator><![CDATA[Keith Taylor]]></dc:creator>
+		<pubDate>Fri, 26 Jun 2020 11:57:47 +0000</pubDate>
+				<category><![CDATA[Gout and Uric Acid]]></category>
+		<category><![CDATA[hyperuricemia]]></category>
+		<category><![CDATA[MSU (MonoSodium Urate)]]></category>
+		<category><![CDATA[sUA]]></category>
+		<category><![CDATA[tophaceous]]></category>
+		<category><![CDATA[tophus (plural = tophi)]]></category>
+		<guid isPermaLink="false">/?p=171</guid>
+
+					<description><![CDATA[Gout is progressive, debilitating, and dangerous. Unless uric acid is controlled. Normal uric acid can be too high. See why uric acid is only safe below 6 mg/dL.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Uric Acid Crystals Damage Hands</title>
+		<link>/uric-acid-crystals-damage-hands/</link>
+		
+		<dc:creator><![CDATA[Keith Taylor]]></dc:creator>
+		<pubDate>Mon, 25 May 2020 11:49:22 +0000</pubDate>
+				<category><![CDATA[Gout and Uric Acid]]></category>
+		<category><![CDATA[tophaceous]]></category>
+		<category><![CDATA[tophus (plural = tophi)]]></category>
+		<guid isPermaLink="false">/?p=100</guid>
+
+					<description><![CDATA[This is my review of a uric acid crystals study. In which I will explain the key points for gout sufferers. So this is for people who are concerned about how gout affects hands. Because it helps you discuss your<a class="more-link" href="/uric-acid-crystals-damage-hands/">Continue reading... <span class="screen-reader-text">Uric Acid Crystals Damage Hands</span></a>]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

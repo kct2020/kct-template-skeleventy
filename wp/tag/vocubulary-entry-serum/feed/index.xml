@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>serum | GoutPal&#039;s Gout Library</title>
+	<atom:link href="/tag/vocubulary-entry-serum/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Gout and Uric Acid Knowledge</description>
+	<lastBuildDate>Thu, 06 Aug 2020 13:12:19 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>/wp-content/uploads/2020/05/cropped-GoutPal-Library-Logo-media-1-32x32.png</url>
+	<title>serum | GoutPal&#039;s Gout Library</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Normal Range of Uric Acid in Blood</title>
+		<link>/normal-range-of-uric-acid-in-blood/</link>
+		
+		<dc:creator><![CDATA[Keith Taylor]]></dc:creator>
+		<pubDate>Thu, 16 Jul 2020 07:10:18 +0000</pubDate>
+				<category><![CDATA[Gout and Uric Acid]]></category>
+		<category><![CDATA[cardiovascular]]></category>
+		<category><![CDATA[hyperuricemia]]></category>
+		<category><![CDATA[MSU (MonoSodium Urate)]]></category>
+		<category><![CDATA[serum]]></category>
+		<guid isPermaLink="false">/?p=195</guid>
+
+					<description><![CDATA[References ranges are vital in gout management. As they control diagnosis and treatment. Is yours calculated badly? Get your Normal Range of Uric Acid in Blood.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>2020 Gout Management Guideline</title>
+		<link>/2020-gout-management-guideline/</link>
+		
+		<dc:creator><![CDATA[Keith Taylor]]></dc:creator>
+		<pubDate>Fri, 05 Jun 2020 19:40:59 +0000</pubDate>
+				<category><![CDATA[Gout and Uric Acid]]></category>
+		<category><![CDATA[serum]]></category>
+		<category><![CDATA[tophaceous]]></category>
+		<category><![CDATA[ULT (Urate Lowering Therapy)]]></category>
+		<category><![CDATA[urate]]></category>
+		<guid isPermaLink="false">/?p=146</guid>
+
+					<description><![CDATA[American College of Rheumatology (ACR) Gout Management Guidelines set the standard for patient care in the USA. Make sure your treatment agrees with 2020 rules.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Gout Treatment Lottery</title>
+		<link>/gout-treatment-lottery/</link>
+		
+		<dc:creator><![CDATA[Keith Taylor]]></dc:creator>
+		<pubDate>Wed, 13 May 2020 07:04:46 +0000</pubDate>
+				<category><![CDATA[Gout and Uric Acid]]></category>
+		<category><![CDATA[hyperuricemia]]></category>
+		<category><![CDATA[serum]]></category>
+		<category><![CDATA[ULT (Urate Lowering Therapy)]]></category>
+		<guid isPermaLink="false">/?p=55</guid>
+
+					<description><![CDATA[The big picture about gout emerges from surveying thousands of people over many years. Because we can see how prevalent gout is. Also, we can assess how many people get treated. Then how successful that treatment is. So if you&#8217;re<a class="more-link" href="/gout-treatment-lottery/">Continue reading... <span class="screen-reader-text">Gout Treatment Lottery</span></a>]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Gluten and Uric Acid</title>
+		<link>/gluten-and-uric-acid/</link>
+		
+		<dc:creator><![CDATA[Keith Taylor]]></dc:creator>
+		<pubDate>Mon, 18 May 2020 08:46:08 +0000</pubDate>
+				<category><![CDATA[Gout and Uric Acid]]></category>
+		<category><![CDATA[cardiovascular]]></category>
+		<category><![CDATA[serum]]></category>
+		<guid isPermaLink="false">/?p=65</guid>
+
+					<description><![CDATA[Wheat gluten can lower uric acid in the blood. Are you concerned about eating wheat, rye, and barley foods? Now you know gluten is good for gout.]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

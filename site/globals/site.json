@@ -1,0 +1,19 @@
+{
+    "name": "GoutPal's Gout Library",
+    "url": "https://goutpal.info",
+    "blog": "Gout and Uric Acid Science Blog",
+    "author": {
+        "name": "Keith Taylor",
+        "handle": "@keithtaylor"
+    },
+    "images": {
+        "favicon": "/favicon.png",
+        "apple_touch_icon": "/images/meta/apple-touch-icon.png",
+        "twitter": "/images/meta/twitter.jpg",
+        "og": "/images/meta/og.jpg"
+    },
+    "social_links": {
+        "github": "https://github.com/kct2020/goutpal-info-11ty",
+        "twitter": "https://twitter.com/keithtaylor"
+    }
+}

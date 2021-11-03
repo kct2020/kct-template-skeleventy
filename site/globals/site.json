@@ -1,7 +1,7 @@
 {
-    "name": "GoutPal's Gout Library",
-    "url": "https://goutpal.info",
-    "blog": "Gout and Uric Acid Science Blog",
+    "name": "UpdateThis Website Name",
+    "url": "https://updatethis.com",
+    "blog": "UpdateThis Blog",
     "author": {
         "name": "Keith Taylor",
         "handle": "@keithtaylor"
@@ -13,7 +13,7 @@
         "og": "/images/meta/og.jpg"
     },
     "social_links": {
-        "github": "https://github.com/kct2020/goutpal-info-11ty",
+        "github": "https://github.com/kct2020/kct-template-skeleventy",
         "twitter": "https://twitter.com/keithtaylor"
     }
 }

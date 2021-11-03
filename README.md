@@ -1,116 +1,49 @@
-# GoutPal.info In Progress
+# KCT Template - Skeleventy
 
-##yymmddx Priority Issues
-These notes become project-notes.md and all outstanding tasks are in Issues.
-This is not a platform for discussing personal issues. Unless you explain how those issues relate to a page (you can open as many issues as you want about different pages). I highly recommend that you create your own project file to control your view of all your issues. Currently, I can support you directly with 2 platforms - GitHub and MindMup. If you are not familiar with these, choose MindMup. Because that's a very capable platform for new learners. But GitHub needs considerable learning investment. Ideally, you would help on an existing project like this for a few months before starting your own GitHub projects. Though I do intend to make this easier for you in future. With personal gout planning templates.
+This template can be used to create a new website. Also, that new website can optionally include WordPress Transmigration.
 
-##yymmddx Platform Switch
+Intention is to deploy this using Cloudflare Pages. But it should also work fine on Netlify and similar platforms. Deployment is usually done:
 
-##211030a Blog Welcome
-Explain site is moving to allow fast expansion. Main plan is to focus on professional guidance to gout patients. Because most gout patients don't know it exists. And even if they did, it assumes someone has explained your options to you.
-Also do 2 more new blogs:
-- Gout Pain Relief Best Practices
-- Uric Acid Control Best Practices
+1. Trial Deployment after committing 1st Config Changes.
+2. Import WP or Add Admin
+3. 
 
-##211029b Front Page & Nav
-I want a clean front page offering old or new blogs for now. Then do better intro when bulk of wp pages have been reviewed.
-- resources/scss/04-layout/_site.scss: changed background image to a solid color. Not sure if this needs changing in main.css and/or main.min.css
-- site/includes/components/nav.njk: Changed skeleventy link to WP version of About Page 
-- site/index.md: rewritten.
-- site/includes/components/footer.njk: Added current footer links. But these need updating as new admin pages are created. Should also include a feedback link direct to issues.
-- site/includes/components/footer.njk: Add disclaimer
-- Change favicon.icon (root) & images/meta/apple-touch-icon.png. 
-- Remove svg from...
-  - site/includes/layouts/base.njk
-  - site/globals/site.json
-  - favicon.svg
-- try again with background image - changing css/main.css and css/main.min.css which seem identical. Need to learn the 'right' way to edit css in this template!
-
-##211029a Import WP
-- Download zip to new wp folder
-- extract zip
-- rename wp/index.html
-- delete zip
-- eleventy.config.js config.addPassthroughCopy({ "wp/": "/" })
-- delete skeleventy /about/ folder for compatibility with wp (quicker than creating new admin pages, which I can do later)
-
-##211025 1st Config
+## 1st Config Files
 - This readme project note
 - site/globals/site.json
 
+## Optional Import WP
+- Download zip to wp folder
+- extract zip
+- rename wp/index.html 
+- delete zip
 
-Original readme...
+If you're not importing WordPress, you can optionally remove the config instruction:
+- eleventy.config.js config.addPassthroughCopy({ "wp/": "/" })
 
-***
+## Look and Feel
+- resources/scss/04-layout/_site.scss: change background to image to a different color. Not sure if this needs changing in main.css and/or main.min.css *
+- site/includes/components/nav.njk: Change link to WP version of About Page or to appropriate blog post. 
+- site/index.md: rewrite.
+- site/includes/components/footer.njk: Change footer links. But these need updating as new admin pages are created. Should also include a feedback link direct to issues.
+- site/includes/components/footer.njk: Change disclaimer
+- Change favicon.icon (root) & images/meta/apple-touch-icon.png. 
 
-# An Eleventy starter skeleton
+* I got confused by the way css works in this setup and I hacked the background image 
+in css/main.css and css/main.min.css which seem identical. Need to learn the 'right' way to edit css in this template! Which is probly something to do with this note in the original readme...
 
-Skeleventy gives you a rock solid foundation to build fast and accessible static websites. [View the demo site](http://skeleventy.netlify.app/).
-
-## Features
-
-- A clean, minimal build pipeline with SCSS and [Laravel Mix](https://laravel-mix.com/docs/5.0/basic-example) for compiling assets
-- [Gorko](https://github.com/hankchizljaw/gorko), a smart little Sass-powered utility class generator
-- [Purgecss](https://purgecss.com/) to remove unused CSS
-- HTML minifier
-- Supports ES2017 JavaScript, with Babel compilation
-- SEO friendly page meta, including Open Graph and Twitter
-- Image lazy loading
-- Mobile navigation
-- XML Sitemap
-- Clean and simple blog, with categories and featured images
-
-## Getting started
-
-### Prerequisites
-Node `v10+`
-
-### Installation
-
-1. Clone the repo `git clone https://github.com/josephdyer/skeleventy.git`
-2. `cd` into the project folder and run `npm install`
-3. Start the local development server by running `npm run dev` **Tip:** _Eleventy has live reload baked in!_
-
-## Folder structure
-
-### Eleventy
-
-- `site/` contains all the global data, templates and content
-- `utilities/` contains Eleventy helper `filters` and `transforms`
-- Each page should have it's own respective folder containing an `index.md` file
-- You can then choose the most appropriate layout for each page (or create more if you need to)
-- The navigation is powered by the official [Eleventy navigation plugin](https://www.11ty.dev/docs/plugins/navigation/)
-
-### Assets
-
-- `css/` for compiled CSS
-- `js/` for compiled JavaScript
-- `images/` contains our site's images, an SVG icon sprite and a folder for meta images (OG, Twitter etc)
-
-## The build pipeline
+### The build pipeline
 
 [Laravel Mix](https://laravel-mix.com/docs/5.0/basic-example) gives us a nice API layer on top of Webpack. Skeleventy uses a simplistic set up, but you _can_ take advantage of extending Mix with custom Webpack configurations, code splitting and plugins such as PostCSS, if you so wish.
 
 You'll find the site's uncompiled SCSS and JS within `resources/` where Mix will be watching these directories for any changes. **Tip:** _it's best to always restart the server when creating any new partials or folders_
 
-### SCSS
+#### SCSS
 
 - `scss/` is structured into opinionated sub folders
 - The `_config.scss` file is where you can change the site's colours and the utility classes generated by Gorko
-- A typographic scale has already been set up using my personal favourite _Major Third_ scale.
-- **Tip:** *for more scales, check out [Type Scale](https://type-scale.com/)*
 
-### Gorko
+## Start Blog
 
-I decided to remove Tailwind in favour of Gorko, purely for its simplicity and maintainability (especially for newer developers). Not having _too much_ to begin with and adding in what you need, will lead to a simpler, more maintainable codebase. Gorko lets you add a sprinkle of reusable utility classes to help keep your code DRY. _Credit to [Andy Bell](https://piccalil.li/) for making this handy little tool_
+Amend or replace examples. Note, this will eventually include all admin pages as blog posts with 'using' tag.
 
-### JavaScript
-
-- `utilities/` contains any global utility/helper functions
-- `modules/` contains your site's actual JavaScript, all kept neat and tidy within their respective _modular_ subfolders
-- You can import these subfolders into `main.js` using `import '@modules/example-module'`
-- **Tip:** *you can set up optional import aliases via the `webpack.mix.js` file*
-
-### A note on responsive images
-
-Skeleventy doesn't have responsive images baked in, the main reason being: it's best using [CDN](https://cloudinary.com/invites/lpov9zyyucivvxsnalc5/zsykhj88yzvi0i8kugfs). Check out this [tutorial on setting up Eleventy with Cloudinary](https://sia.codes/posts/eleventy-and-cloudinary-images/).

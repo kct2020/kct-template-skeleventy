@@ -3,7 +3,7 @@ layout: blog
 eleventyComputed:
   title: "{{ site.blog }}"
   meta_title: "{{ site.blog }}"
-meta_description: GoutPal's Gout & Uric Acid Science blog. A place to learn the science of gouty arthritis.
+meta_description: UpdateThis blog description for search engine results.
 hide_from_sitemap: true
 robots: index,follow
 eleventyNavigation:
@@ -11,4 +11,4 @@ eleventyNavigation:
   order: 3
 ---
 
-A place to learn the science of gouty arthritis.
+A place to learn about {{ site.subject }}.

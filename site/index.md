@@ -4,7 +4,6 @@ eleventyComputed:
   title: "{{ site.name }} Home Page"
   meta_title: "{{ site.name }} Home Page"
 meta_description: UpdateThis to describe the site main markets.
-title: GoutPal's Gout Library Home Page
 sub_heading: UpdateThis to an introductory AIDA statement.
 eleventyNavigation:
   key: Home

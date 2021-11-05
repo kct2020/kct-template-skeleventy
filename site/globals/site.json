@@ -2,6 +2,7 @@
     "name": "UpdateThis Website Name",
     "url": "https://updatethis.com",
     "blog": "UpdateThis Blog",
+    "subject": "UpdateThis Site Subject",
     "author": {
         "name": "Keith Taylor",
         "handle": "@keithtaylor"
@@ -13,7 +14,7 @@
         "og": "/images/meta/og.jpg"
     },
     "social_links": {
-        "github": "https://github.com/kct2020/kct-template-skeleventy",
+        "github": "https://github.com/kct2020/updatethis-repo/",
         "twitter": "https://twitter.com/keithtaylor"
     }
 }

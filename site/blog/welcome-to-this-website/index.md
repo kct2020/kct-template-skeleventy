@@ -19,7 +19,7 @@ UpdateThis to describe your intentions for forthcoming content
 
 I hope you'll enjoy my {{ site.subject }} articles. Please share and discuss them with your professional advisers, where appropriate.
 
-I hope you'll tell me if you want clarification. Or if you want me to add any {{ site.subject }} articles that I haven't included. First, check to see if we are already discussing your concerns in <a href="{{ site.github }}issues">Gout Library Issues</a>. If not, <a href="{{ site.github }}issues/new/choose">raise a new issue</a> to share your questions, experiences, and opinions.
+I hope you'll tell me if you want clarification. Or if you want me to add any {{ site.subject }} articles that I haven't included. First, check to see if we are already discussing your concerns in <a href="{{ site.github }}issues">{{ site.name }} Issues</a>. If not, <a href="{{ site.github }}issues/new/choose">raise a new issue</a> to share your questions, experiences, and opinions.
 
 ***
 

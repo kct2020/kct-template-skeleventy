@@ -11,4 +11,4 @@ eleventyNavigation:
   order: 3
 ---
 
-A place to learn the science of gouty arthritis.
+A place to learn about {{ site.subject }}.

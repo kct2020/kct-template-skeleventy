@@ -13,14 +13,14 @@
   "author": "Joe Dyer",
   "license": "MIT",
   "devDependencies": {
-    "@11ty/eleventy": "0.12.1",
+    "@11ty/eleventy": "1.0.0",
     "@11ty/eleventy-navigation": "0.3.2",
-    "gorko": "0.9.0",
+    "gorko": "0.9.1",
     "html-minifier": "4.0.0",
-    "laravel-mix": "6.0.39",
+    "laravel-mix": "6.0.41",
     "laravel-mix-purgecss": "6.0.0",
-    "postcss": "8.4.5",
-    "resolve-url-loader": "4.0.0",
+    "postcss": "8.4.6",
+    "resolve-url-loader": "5.0.0",
     "sass-loader": "12.4.0"
   }
 }

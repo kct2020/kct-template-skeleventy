@@ -50,3 +50,9 @@ You'll find the site's uncompiled SCSS and JS within `resources/` where Mix will
 
 Amend or replace examples. Note, this will eventually include all admin pages as blog posts with 'using' tag.
 
+## 5. Other Notes
+
+- Added non-nav collection pages to menu: site/includes/components/mobile-nav.njk and site/includes/components/nav.njk
+- Added Pagination:
+  - site/includes/components/pagination.njk (Needs styling to professional standards)
+  - site/includes/layouts/blog.njk (code added at end of card grid)

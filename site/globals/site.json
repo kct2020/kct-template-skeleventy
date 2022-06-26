@@ -1,10 +1,14 @@
 {
+    "layout": "post",
     "name": "UpdateThis Website Name",
     "url": "https://updatethis.com",
     "blog": "UpdateThis Blog",
     "subject": "UpdateThis Site Subject",
+    "searchname": "Keith Taylor Search Engine",
+    "searchurl": "https://cse.google.com/cse?cx=e7158312c712ab2c3",
     "author": {
         "name": "Keith Taylor",
+        "url": "https://shrewdies.net",
         "handle": "@keithtaylor"
     },
     "images": {

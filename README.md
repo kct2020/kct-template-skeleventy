@@ -2,9 +2,11 @@
 
 This template can be used to create a new website. Also, that new website can optionally include WordPress Transmigration.
 
-Intention is to deploy this using Cloudflare Pages. But it should also work fine on Netlify and similar platforms. Deployment is usually done:
+Intention is to deploy this using Cloudflare Pages. But it should also work fine on Netlify and similar platforms. Deployment is usually done (optional progress mark ✅):
 
-1. Trial Deployment after committing 1st Config Changes (minimal changes to make sure deployment works).
+1. Trial Deployment after committing 1st Config Changes (minimal changes to make sure deployment works). Settings for Cloudflare Pages are:
+ - Build command: `npm run production`
+ - Build output directory: `/public`
 2. Import WP or Add Admin (gets content). Note, for WP Transmigration, there are steps needed to prepare the zip file for import. E.g., remove Cloudflare apps, check footer, create Simply Static file.
 3. Complete config changes. Aim is for all these to be in `site/globals/site.json`. But otherwise search for `UpdateThis`.
 4. Create pre-launch content.
